@@ -29,7 +29,7 @@ in
     userEmail = "owen@owen.cafe";
      signing = {
       key = "owen@owen.cafe";
-      signByDefault = true;
+      signByDefault = false;
     };
     extraConfig = {
       core = {
